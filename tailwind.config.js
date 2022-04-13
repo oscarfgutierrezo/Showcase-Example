@@ -20,7 +20,7 @@ module.exports = {
         "sans": "DM Sans"
       },
       backgroundImage: {
-        cta04: 'url("../img/cta-04.png")',
+        showcase10: 'url("../img/showcase-10.png")',
       },
     },
   },
